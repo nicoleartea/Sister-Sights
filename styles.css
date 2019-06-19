@@ -1,0 +1,15 @@
+body{
+  background-color: #AEFBEC;
+  font-family: 'Dosis', sans-serif;
+
+}
+.Get-to-know-Grace {
+  text-align: center;
+  border: 4px dashed blue;
+  background-color: #AEFBEC
+
+}
+.Favorite hobby{
+  border:4px dashed blue;
+  background-color: blue
+}
